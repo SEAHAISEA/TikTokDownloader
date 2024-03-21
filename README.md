@@ -203,13 +203,6 @@
 </ul>
 <b>在使用本项目的代码和功能之前，请您认真考虑并接受以上免责声明。如果您对上述声明有任何疑问或不同意，请不要使用本项目的代码和功能。如果您使用了本项目的代码和功能，则视为您已完全理解并接受上述免责声明，并自愿承担使用本项目的一切风险和后果。</b>
 
-# ✉️ 联系作者\(Contact\)
-
-<ul>
-<li>微信: Downloader_Tools</li>
-<li>微信公众号: Downloader Tools</li>
-<li>QQ 群聊(使用交流): <a href="https://github.com/JoeanAmier/TikTokDownloader/blob/master/docs/QQ%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png">扫码加入群聊</a></li>
-</ul>
 <p>✨ <b>作者的其他开源项目：</b></p>
 <ul>
 <li><b>XHS-Downloader（小红书）</b>：<a href="https://github.com/JoeanAmier/XHS-Downloader">https://github.com/JoeanAmier/XHS-Downloader</a></li>
@@ -218,21 +211,6 @@
 
 # ♥️ 支持项目\(Support\)
 
-<p>如果 <b>TikTokDownloader</b> 对您有帮助，请考虑为它点个 <b>Star</b> ⭐，感谢您的支持！</p>
-<table>
-<thead>
-<tr>
-<th align="center">微信(WeChat)</th>
-<th align="center">支付宝(Alipay)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center"><img src="./docs/微信赞助二维码.png" alt="微信赞助二维码" height="200" width="200"></td>
-<td align="center"><img src="./docs/支付宝赞助二维码.png" alt="支付宝赞助二维码" height="200" width="200"></td>
-</tr>
-</tbody>
-</table>
-<p>如果您愿意，可以考虑提供资助为 <b>TikTokDownloader</b> 提供额外的支持！</p>
 
 # 💡 项目参考\(Refer\)
 
